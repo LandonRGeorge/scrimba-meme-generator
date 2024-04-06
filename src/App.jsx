@@ -28,7 +28,7 @@ function Main() {
         <button className="form-submit">Get a new meme image</button>
       </form>
       <div className="image">
-        <img src="/src/assets/default.png" alt=""/>
+        <img src="/images/default.png" alt=""/>
         <p className="image-text image-top-text">{topText}</p>
         <p className="image-text image-bottom-text">{bottomText}</p>
       </div>
